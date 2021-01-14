@@ -9,6 +9,7 @@
 }
 .first-container{
     background-color: #fffbf0;
+    border-radius: 10px;
 }
 h1{
     color: gold;
@@ -25,6 +26,10 @@ h2{
     border: 0;
 }
 .card img{
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
+    background-color: whitesmoke;
+}
+.dress-card{
+    border-radius: 20px;
 }
