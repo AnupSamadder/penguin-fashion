@@ -1,11 +1,15 @@
-body h1{
+ h1{
     font-family: 'Bebas Neue', cursive;
-
+}
+#black{
+    color: black;
 }
 .navbar-brand img{
     width: 200px;
 }
-
+.first-container{
+    background-color: #fffbf0;
+}
 h1{
     color: gold;
 
