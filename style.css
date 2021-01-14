@@ -1,6 +1,25 @@
+body h1{
+    font-family: 'Bebas Neue', cursive;
+
+}
 .logo img{
     width: 300px;
 }
 h1{
     color: gold;
+
+}
+h2{
+     color: rgb(243, 183, 30);
+}
+.shadow img{
+    width: 50%;
+    
+}
+.shadow{
+    border: 0;
+}
+.card img{
+    height: 100px;
+    width: 100px;
 }
