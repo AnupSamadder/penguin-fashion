@@ -2,9 +2,10 @@ body h1{
     font-family: 'Bebas Neue', cursive;
 
 }
-.logo img{
-    width: 300px;
+.navbar-brand img{
+    width: 200px;
 }
+
 h1{
     color: gold;
 
